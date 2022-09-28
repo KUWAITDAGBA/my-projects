@@ -1,0 +1,18 @@
+.bar{
+    
+    text-shadow: 5px 5px 2px black;
+    color: mediumaquamarine;
+    background-color: rgb(20, 16, 20);
+    border-style: double;
+    border: 1px solid black;
+    border-radius: 20px; 
+    width: 500px; 
+}
+
+*{
+
+    margin: 30px;
+}
+body{
+    background-image: url(WS.jpg);
+}

@@ -1,0 +1,11 @@
+body{
+    background-color: aquamarine;
+    text-align: center;
+    
+}
+.num{
+    color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 120px;
+    box-sizing: border-box;
+}
